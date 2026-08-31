@@ -2,6 +2,8 @@
 
 An interactive NBA 2025/26 analytics app for exploring, comparing and visualizing player performance.
 
+**Live Demo:** https://nba-player-stats-explorer-2026.streamlit.app
+
 The project uses pandas to clean and aggregate game-level data, Streamlit for the interactive interface, and a small in-memory SQLite database for league ranking queries.
 
 ## Features
