@@ -1,4 +1,3 @@
-from pandas import DataFrame
 import pandas as pd
 import sqlite3
 import streamlit as st

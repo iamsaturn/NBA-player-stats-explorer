@@ -1,7 +1,7 @@
 [project]
 name = "nba-player-stats-explorer"
 version = "0.1.0"
-description = "NBA player statistics exploration and comparison project"
+description = "Interactive NBA 2025/26 player statistics explorer and analytics dashboard"
 authors = [
     {name = "iamsaturn",email = "arthusjonathan@gmail.com"}
 ]
