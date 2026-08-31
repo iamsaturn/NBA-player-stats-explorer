@@ -4,6 +4,8 @@ An interactive NBA 2025/26 analytics app for exploring, comparing and visualizin
 
 The project uses pandas to clean and aggregate game-level data, Streamlit for the interactive interface, and a small in-memory SQLite database for league ranking queries.
 
+![NBA Player Stats Explorer](/docs/preview.png)
+
 ## Features
 
 - Explore season averages for individual players
